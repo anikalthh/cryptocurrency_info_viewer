@@ -36,31 +36,39 @@ python main.py
 ```
 
 5. This should be how the application looks like (on MacOS)
+
 ![How the application looks like](images/GUI.png )
 
 ## Features Demo
 
 1. Displaying information of selected cryptocurrencies
+
 ![Info Viewer](images/info.png)
 
 2. Correlation Heatmap with save image function on the bottom left
+
 ![Correlation Heatmap](images/corr_graph.png)
 
 3. Export dataframe to excel file
+
 * You should see a pop up if file was successfully exported
+
 ![Export to excel](images/excel_popup.png)
 
 * Example of the dataframe exported in excel file
+
 ![Export to excel](images/excel_file_eg.png)
 
 4. Graph Plotter (graphs can be exported and saved)
 
 * Input your start and end dates using the datepickers provided
+
 ![Date entry](images/date_entry.png)
 
 ### Individual Graphs
 * Do note that if 2 or more cryptocurrencies were selected to be plot on different graphs, the figures will generate one-by-one.
 * Hence, do save the figure (if needed) and close it to view the next graph.
+
 ![Individual graph](images/individual_graph.png)
 
 ### Subplots 
