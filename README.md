@@ -47,22 +47,23 @@ python main.py
 ![Correlation Heatmap](images/corr_graph.png)
 
 3. Export dataframe to excel file
-![Export to excel](images/excel_file_eg.png)
 * You should see a pop up if file was successfully exported
+![Export to excel](images/excel_popup.png)
 
+* Example of the dataframe exported in excel file
 ![Export to excel](images/excel_file_eg.png)
 
 4. Graph Plotter (graphs can be exported and saved)
 
-![Date entry](images/date_entry.png)
 * Input your start and end dates using the datepickers provided
+![Date entry](images/date_entry.png)
 
-Individual Graphs
-![Individual graph](images/individual_graph.png)
+### Individual Graphs
 * Do note that if 2 or more cryptocurrencies were selected to be plot on different graphs, the figures will generate one-by-one.
 * Hence, do save the figure (if needed) and close it to view the next graph.
+![Individual graph](images/individual_graph.png)
 
-Subplots 
+### Subplots 
 ![Subplots](images/subplots.png)
 
 ## Disclaimer
