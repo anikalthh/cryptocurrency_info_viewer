@@ -14,7 +14,7 @@ Currently, the application focuses on 4 main cryptocurrencies (Bitcoin, Ethereum
 
 ## How to Run the Application GUI
 
-1. Download the source code
+1. Download the source code or clone this repository
 
 2. Create a virtual environment
 
